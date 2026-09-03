@@ -1,2 +1,2 @@
 # admin-ranks-texture-pack
-rank server side texture packs
+dont read me this github is just for me
